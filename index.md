@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+刘可的这个GitHub.io网站只是为了作为创建实例，找个博客界面真几把难找，全都PHP写的，前端原来也是如此难。等我会做博客网站了，再来把找个kkeeliu.github.io完善一下，先委屈你了。嘿嘿嘿哈哈哈哈哈哈哈哈哈哈哈哈哈
+
 You can use the [editor on GitHub](https://github.com/kkeeliu/kkeeliu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 你可以使用GitHub上的编辑器来维护和预览Markdown文件中的网站内容。
